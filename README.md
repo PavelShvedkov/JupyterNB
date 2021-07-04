@@ -10,6 +10,11 @@
 ### Course work
 | Task | Task Status| Additional |
 | -------- | -------- | --------| 
-| Investigation of properties of 1-d random walks. Executed in Python| ![Scheduled](https://github.com/AnzhelikaKravchuk/.NET-Training.-Spring-2019/blob/master/Pictures/icons-inprogress.png)|[Random_walks.ipynb](https://github.com/PavelShvedkov/JupyterNB/blob/main/Random_walks.ipynb)
+| Investigation of properties of 1-d random walks. Executed in Python| ![Scheduled](https://github.com/AnzhelikaKravchuk/.NET-Training.-Spring-2019/blob/master/Pictures/icons-ok.png)|[Random_walks.ipynb](https://github.com/PavelShvedkov/JupyterNB/blob/main/Random_walks.ipynb)
 
 
+
+### Star
+| Task | Task Status| Additional |
+| -------- | -------- | --------| 
+| Product of error in cruise work. Executed in Python| ![Scheduled](https://github.com/AnzhelikaKravchuk/.NET-Training.-Spring-2019/blob/master/Pictures/icons-ok.png)|[Untitled1.ipynb](https://github.com/PavelShvedkov/JupyterNB/blob/main/Untitled1.ipynb)
